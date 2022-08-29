@@ -1,4 +1,4 @@
-Inline __asm{ ... } doesn't work on x64!
+Inline __asm{ ... } doesn't work in Visual Studio on x64!
 
 1) right click the project, go to Build Dependencies -> Build Customisations
 2) check masm(.targets, .props)
